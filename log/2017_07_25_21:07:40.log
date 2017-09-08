@@ -1,0 +1,20 @@
+2017-07-25 21:07:40,033 : 加载设备及用户配置信息
+2017-07-25 21:07:40,087 : 配置列表中一共有 39 台设备
+2017-07-25 21:07:40,087 : 配置列表中一共有 5 个用户信息
+2017-07-25 21:07:40,087 : 获得服务器上待测试的设备
+2017-07-25 21:07:40,169 : 已连接的设备： 3DN4C16411014042 ------ HuaWei_G9
+2017-07-25 21:07:40,170 : 开始执行任务...
+2017-07-25 21:07:43,045 : 设备：HuaWei_G9 开始预处理流程...
+2017-07-25 21:07:49,256 : 设备：HuaWei_G9 查找控件 android:id/button1
+2017-07-25 21:07:50,513 : 设备：HuaWei_G9 未找到控件: android:id/button1
+2017-07-25 21:07:50,513 : 设备：HuaWei_G9 开始安装测试的nice包
+2017-07-25 21:07:50,514 : 设备：HuaWei_G9 启动app并处理GPS弹窗
+2017-07-25 21:07:50,514 : 设备：HuaWei_G9 查找控件 com.android.packageinstaller:id/decide_to_continue
+2017-07-25 21:08:14,176 : 设备：HuaWei_G9 找到控件: com.android.packageinstaller:id/decide_to_continue
+2017-07-25 21:08:14,177 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/decide_to_continue
+2017-07-25 21:08:14,637 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/decide_to_continue success
+2017-07-25 21:08:14,637 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/goinstall
+2017-07-25 21:08:18,487 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/goinstall success
+2017-07-25 21:10:01,970 : 设备：HuaWei_G9 启动成功
+2017-07-25 21:10:01,971 : 设备：HuaWei_G9 开始登录，使用账号:19922223369
+2017-07-25 21:10:03,972 : 设备：HuaWei_G9 查找控件 com.nice.mont:id/img

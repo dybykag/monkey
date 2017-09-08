@@ -1,0 +1,44 @@
+2017-08-22 14:25:01,602 : 加载设备及用户配置信息
+2017-08-22 14:25:01,653 : 配置列表中一共有 39 台设备
+2017-08-22 14:25:01,653 : 配置列表中一共有 5 个用户信息
+2017-08-22 14:25:01,653 : 获得服务器上待测试的设备
+2017-08-22 14:25:01,735 : 已连接的设备： LJYTZ5D699999999 ------ Redmi_Note2
+2017-08-22 14:25:01,735 : 开始执行任务...
+2017-08-22 14:25:04,616 : 设备：Redmi_Note2 开始预处理流程...
+2017-08-22 14:25:05,587 : 设备：Redmi_Note2 卸载老的nice包
+2017-08-22 14:25:08,970 : 设备：Redmi_Note2 开始安装测试的nice包
+2017-08-22 14:25:08,970 : 设备：Redmi_Note2 安装app并处理GPS弹窗
+2017-08-22 14:25:42,147 : 设备：Redmi_Note2 启动成功
+2017-08-22 14:25:42,147 : 设备：Redmi_Note2 开始登录，使用账号:19922223369
+2017-08-22 14:25:44,152 : 设备：Redmi_Note2 查找控件 com.nice.mont:id/img
+2017-08-22 14:25:44,410 : 设备：Redmi_Note2 找到控件: com.nice.mont:id/img
+2017-08-22 14:25:44,410 : 设备：Redmi_Note2 [action]按系统按键(keycode='4')
+2017-08-22 14:25:44,450 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/circle_avatar
+2017-08-22 14:25:47,195 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/circle_avatar success
+2017-08-22 14:25:47,195 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/btn_phone_login
+2017-08-22 14:25:48,713 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/btn_phone_login success
+2017-08-22 14:25:48,713 : 设备：Redmi_Note2 查找控件 com.nice.mont:id/phone_number
+2017-08-22 14:25:48,825 : 设备：Redmi_Note2 找到控件: com.nice.mont:id/phone_number
+2017-08-22 14:25:48,825 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/phone_number
+2017-08-22 14:25:49,880 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/phone_number success
+2017-08-22 14:25:50,881 : 设备：Redmi_Note2 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-08-22 14:25:57,331 : 设备：Redmi_Note2 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-08-22 14:25:57,331 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-08-22 14:25:58,337 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-08-22 14:25:59,341 : 设备：Redmi_Note2 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-08-22 14:26:05,463 : 设备：Redmi_Note2 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-08-22 14:26:06,464 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/login
+2017-08-22 14:26:07,047 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/login success
+2017-08-22 14:26:07,047 : 设备：Redmi_Note2 登录成功
+2017-08-22 14:26:07,048 : 设备：Redmi_Note2 获取相机及录音权限
+2017-08-22 14:26:07,048 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/feed_open_camera
+2017-08-22 14:26:10,840 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/feed_open_camera success
+2017-08-22 14:26:10,841 : 设备：Redmi_Note2 start tap element id:com.lbe.security.miui:id/accept
+2017-08-22 14:26:11,617 : 设备：Redmi_Note2 tap element id:com.lbe.security.miui:id/accept success
+2017-08-22 14:26:11,617 : 设备：Redmi_Note2 start tap element id:com.lbe.security.miui:id/accept
+2017-08-22 14:26:12,917 : 设备：Redmi_Note2 tap element id:com.lbe.security.miui:id/accept success
+2017-08-22 14:26:12,917 : 设备：Redmi_Note2 start tap element id:com.nice.mont:id/iv_close
+2017-08-22 14:26:14,043 : 设备：Redmi_Note2 tap element id:com.nice.mont:id/iv_close success
+2017-08-22 14:26:14,044 : 设备：Redmi_Note2 预处理成功，开始执行Monkey测试
+2017-08-22 14:26:14,044 : 设备：Redmi_Note2 -----------------执行monkey脚本-----------------
+2017-08-22 14:26:15,037 : -----------完成全部monkey测试--------------

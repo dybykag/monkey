@@ -1,0 +1,83 @@
+2017-08-22 11:20:16,434 : 加载设备及用户配置信息
+2017-08-22 11:20:16,487 : 配置列表中一共有 39 台设备
+2017-08-22 11:20:16,487 : 配置列表中一共有 5 个用户信息
+2017-08-22 11:20:16,487 : 获得服务器上待测试的设备
+2017-08-22 11:20:16,588 : 已连接的设备： 810EBL22MGP3 ------ MEIZU_M2NOTE
+2017-08-22 11:20:16,588 : 已连接的设备： b33aa57c ------ XIAOMI_5
+2017-08-22 11:20:16,589 : 开始执行任务...
+2017-08-22 11:20:19,136 : 设备：MEIZU_M2NOTE 开始预处理流程...
+2017-08-22 11:20:19,838 : 设备：MEIZU_M2NOTE 卸载老的nice包
+2017-08-22 11:20:21,026 : 设备：XIAOMI_5 开始预处理流程...
+2017-08-22 11:20:21,610 : 设备：XIAOMI_5 卸载老的nice包
+2017-08-22 11:20:22,088 : 设备：MEIZU_M2NOTE 开始安装测试的nice包
+2017-08-22 11:20:22,089 : 设备：MEIZU_M2NOTE 安装app并处理GPS弹窗
+2017-08-22 11:20:22,089 : 设备：MEIZU_M2NOTE 查找控件 android:id/button1
+2017-08-22 11:20:23,061 : 设备：XIAOMI_5 开始安装测试的nice包
+2017-08-22 11:20:23,062 : 设备：XIAOMI_5 启动app并处理GPS弹窗
+2017-08-22 11:20:24,759 : 设备：MEIZU_M2NOTE 找到控件: android:id/button1
+2017-08-22 11:20:24,760 : 设备：MEIZU_M2NOTE start tap element id:android:id/button1
+2017-08-22 11:20:28,007 : 设备：MEIZU_M2NOTE tap element id:android:id/button1 success
+2017-08-22 11:20:39,352 : 设备：MEIZU_M2NOTE 启动成功
+2017-08-22 11:20:39,352 : 设备：MEIZU_M2NOTE 开始登录，使用账号:19922223369
+2017-08-22 11:20:41,356 : 设备：MEIZU_M2NOTE 查找控件 com.nice.mont:id/img
+2017-08-22 11:20:41,405 : 设备：MEIZU_M2NOTE 找到控件: com.nice.mont:id/img
+2017-08-22 11:20:41,405 : 设备：MEIZU_M2NOTE [action]按系统按键(keycode='4')
+2017-08-22 11:20:41,440 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/circle_avatar
+2017-08-22 11:20:42,844 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/circle_avatar success
+2017-08-22 11:20:42,845 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/btn_phone_login
+2017-08-22 11:20:43,882 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/btn_phone_login success
+2017-08-22 11:20:43,882 : 设备：MEIZU_M2NOTE 查找控件 com.nice.mont:id/phone_number
+2017-08-22 11:20:44,010 : 设备：MEIZU_M2NOTE 找到控件: com.nice.mont:id/phone_number
+2017-08-22 11:20:44,011 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/phone_number
+2017-08-22 11:20:45,821 : 设备：XIAOMI_5 启动成功
+2017-08-22 11:20:45,821 : 设备：XIAOMI_5 开始登录，使用账号:19922223368
+2017-08-22 11:20:47,564 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/phone_number success
+2017-08-22 11:20:47,822 : 设备：XIAOMI_5 查找控件 com.nice.mont:id/img
+2017-08-22 11:20:47,899 : 设备：XIAOMI_5 找到控件: com.nice.mont:id/img
+2017-08-22 11:20:47,900 : 设备：XIAOMI_5 [action]按系统按键(keycode='4')
+2017-08-22 11:20:47,920 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/circle_avatar
+2017-08-22 11:20:48,569 : 设备：MEIZU_M2NOTE start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-08-22 11:20:48,758 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/circle_avatar success
+2017-08-22 11:20:48,759 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/btn_phone_login
+2017-08-22 11:20:49,888 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/btn_phone_login success
+2017-08-22 11:20:49,888 : 设备：XIAOMI_5 查找控件 com.nice.mont:id/phone_number
+2017-08-22 11:20:49,922 : 设备：XIAOMI_5 找到控件: com.nice.mont:id/phone_number
+2017-08-22 11:20:49,922 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/phone_number
+2017-08-22 11:20:53,568 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/phone_number success
+2017-08-22 11:20:53,972 : 设备：MEIZU_M2NOTE send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-08-22 11:20:53,972 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-08-22 11:20:54,568 : 设备：XIAOMI_5 start send_key 19922223368 to element id:com.nice.mont:id/phone_number
+2017-08-22 11:20:54,675 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-08-22 11:20:55,679 : 设备：MEIZU_M2NOTE start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-08-22 11:20:59,398 : 设备：XIAOMI_5 send_key text:19922223368 to element id:com.nice.mont:id/phone_number success 
+2017-08-22 11:20:59,398 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-08-22 11:21:01,762 : 设备：MEIZU_M2NOTE send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-08-22 11:21:02,765 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/login
+2017-08-22 11:21:03,296 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-08-22 11:21:03,720 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/login success
+2017-08-22 11:21:03,721 : 设备：MEIZU_M2NOTE 登录成功
+2017-08-22 11:21:03,721 : 设备：MEIZU_M2NOTE 获取相机及录音权限
+2017-08-22 11:21:03,721 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/feed_open_camera
+2017-08-22 11:21:04,298 : 设备：XIAOMI_5 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-08-22 11:21:05,894 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/feed_open_camera success
+2017-08-22 11:21:05,894 : 设备：MEIZU_M2NOTE start tap element id:android:id/button1
+2017-08-22 11:21:09,647 : 设备：MEIZU_M2NOTE tap element id:android:id/button1 success
+2017-08-22 11:21:09,648 : 设备：MEIZU_M2NOTE start tap element id:android:id/button1
+2017-08-22 11:21:12,916 : 设备：MEIZU_M2NOTE tap element id:android:id/button1 success
+2017-08-22 11:21:12,916 : 设备：MEIZU_M2NOTE start tap element id:com.nice.mont:id/iv_close
+2017-08-22 11:21:13,350 : 设备：MEIZU_M2NOTE tap element id:com.nice.mont:id/iv_close success
+2017-08-22 11:21:13,351 : 设备：MEIZU_M2NOTE 预处理成功，开始执行Monkey测试
+2017-08-22 11:21:13,351 : 设备：MEIZU_M2NOTE -----------------执行monkey脚本-----------------
+2017-08-22 11:21:17,114 : 设备：XIAOMI_5 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-08-22 11:21:18,115 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/login
+2017-08-22 11:21:21,331 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/login success
+2017-08-22 11:21:21,331 : 设备：XIAOMI_5 登录成功
+2017-08-22 11:21:21,332 : 设备：XIAOMI_5 获取相机及录音权限
+2017-08-22 11:21:21,332 : 设备：XIAOMI_5 start tap element id:com.nice.mont:id/feed_open_camera
+2017-08-22 11:21:21,927 : 设备：XIAOMI_5 tap element id:com.nice.mont:id/feed_open_camera success
+2017-08-22 11:21:21,927 : 设备：XIAOMI_5 start tap element id:android:id/button1
+2017-08-22 11:21:22,640 : 设备：XIAOMI_5 tap element id:android:id/button1 success
+2017-08-22 11:21:22,640 : 设备：XIAOMI_5 start tap element id:android:id/button1
+2017-08-22 11:21:23,470 : 设备：XIAOMI_5 tap element id:android:id/button1 success
+2017-08-22 11:21:23,470 : 设备：XIAOMI_5 start tap element id:android:id/button1
+2017-08-22 11:21:23,738 : -----------完成全部monkey测试--------------

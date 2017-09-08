@@ -1,0 +1,151 @@
+2017-07-24 20:53:18,921 : 加载设备及用户配置信息
+2017-07-24 20:53:19,046 : 配置列表中一共有 38 台设备
+2017-07-24 20:53:19,046 : 配置列表中一共有 5 个用户信息
+2017-07-24 20:53:19,046 : 获得服务器上待测试的设备
+2017-07-24 20:53:19,184 : 已连接的设备： 8526c60c ------ SumSing_Note4
+2017-07-24 20:53:19,184 : 开始执行任务...
+2017-07-24 20:53:21,243 : 设备：SumSing_Note4 开始预处理流程...
+2017-07-24 20:53:22,067 : 设备：SumSing_Note4 卸载老的nice包
+2017-07-24 20:53:25,256 : 设备：SumSing_Note4 开始安装测试的nice包
+2017-07-24 20:53:25,256 : 设备：SumSing_Note4 启动app并处理GPS弹窗
+2017-07-24 20:53:25,723 : 设备：SumSing_Note4 start tap element id:com.android.settings:id/button
+2017-07-24 20:53:51,929 : 设备：SumSing_Note4 tap element id:com.android.settings:id/button success
+2017-07-24 20:53:54,683 : 设备：SumSing_Note4 启动成功
+2017-07-24 20:53:54,683 : 设备：SumSing_Note4 开始登录，使用账号:19922223369
+2017-07-24 20:53:56,687 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:53:56,749 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-24 20:53:58,222 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-24 20:53:58,222 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-24 20:53:59,563 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-24 20:53:59,563 : 设备：SumSing_Note4 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-24 20:54:06,488 : 设备：SumSing_Note4 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-24 20:54:06,496 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-24 20:54:07,488 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-24 20:54:09,546 : 设备：SumSing_Note4 登陆验证码为: 
+2017-07-24 20:54:09,547 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-24 20:54:10,560 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-24 20:54:45,610 : 设备：SumSing_Note4 登陆验证码为: 
+2017-07-24 20:54:50,614 : 设备：SumSing_Note4 start send_key  to element id:com.nice.mont:id/verify_code_num
+2017-07-24 20:54:56,540 : 设备：SumSing_Note4 send_key text: to element id:com.nice.mont:id/verify_code_num success 
+2017-07-24 20:54:58,544 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/login
+2017-07-24 20:55:02,360 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/login success
+2017-07-24 20:55:07,363 : 设备：SumSing_Note4 登录成功
+2017-07-24 20:55:07,363 : 设备：SumSing_Note4 获取相机及录音权限
+2017-07-24 20:55:07,364 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:08,524 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:08,525 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:08,661 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:09,789 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:09,790 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:09,857 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:10,961 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:10,963 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:10,994 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:12,071 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:12,072 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:12,094 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:13,155 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:13,159 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:13,190 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:14,261 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:14,261 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:14,289 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:15,351 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:15,352 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:15,380 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:16,443 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:16,443 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:16,465 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:17,539 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:17,540 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:17,569 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:18,645 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:18,646 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:18,669 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:19,758 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:19,759 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:19,780 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:20,838 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:20,839 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:20,864 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:21,929 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:21,929 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:21,958 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:23,016 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:23,017 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:23,046 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:24,101 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:24,102 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:24,132 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:25,205 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:25,206 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:25,233 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:26,297 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:26,297 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:26,333 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:27,399 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:27,400 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:27,430 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:28,485 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:28,486 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:28,508 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:29,568 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:29,569 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:29,590 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:30,653 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:30,654 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:30,682 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:31,754 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:31,754 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:31,779 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:32,854 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:32,855 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:32,929 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:33,989 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:33,990 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:34,019 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:35,088 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:35,089 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:35,114 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:36,174 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:36,174 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:36,202 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:37,284 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:37,284 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:37,306 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:38,369 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:38,370 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:38,399 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:39,458 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:39,458 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:39,484 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:40,546 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:40,547 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:40,575 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:41,634 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:41,634 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:41,664 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:42,731 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:42,732 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:42,775 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:43,841 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:43,841 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:43,875 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:44,946 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:44,946 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:44,968 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:46,037 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:46,038 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:46,059 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:47,134 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:47,134 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:47,154 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:48,213 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:48,214 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:48,233 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:49,294 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:49,294 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:49,322 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:50,376 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-24 20:55:50,377 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:55:50,401 : -----------完成monkey测试--------------

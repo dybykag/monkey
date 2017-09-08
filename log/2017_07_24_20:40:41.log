@@ -1,0 +1,26 @@
+2017-07-24 20:40:41,209 : 加载设备及用户配置信息
+2017-07-24 20:40:41,261 : 配置列表中一共有 38 台设备
+2017-07-24 20:40:41,262 : 配置列表中一共有 5 个用户信息
+2017-07-24 20:40:41,262 : 获得服务器上待测试的设备
+2017-07-24 20:40:41,330 : 已连接的设备： 8526c60c ------ SumSing_Note4
+2017-07-24 20:40:41,331 : 开始执行任务...
+2017-07-24 20:40:42,820 : 设备：SumSing_Note4 开始预处理流程...
+2017-07-24 20:40:43,590 : 设备：SumSing_Note4 卸载老的nice包
+2017-07-24 20:40:46,367 : 设备：SumSing_Note4 开始安装测试的nice包
+2017-07-24 20:40:46,378 : 设备：SumSing_Note4 启动app并处理GPS弹窗
+2017-07-24 20:41:05,244 : 设备：SumSing_Note4 start tap element id:com.android.settings:id/button
+2017-07-24 20:41:06,964 : 设备：SumSing_Note4 tap element id:com.android.settings:id/button success
+2017-07-24 20:41:09,878 : 设备：SumSing_Note4 启动成功
+2017-07-24 20:41:09,878 : 设备：SumSing_Note4 开始登录，使用账号:19922223369
+2017-07-24 20:41:11,882 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-24 20:41:11,960 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-24 20:41:14,254 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-24 20:41:14,255 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-24 20:41:15,422 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-24 20:41:15,422 : 设备：SumSing_Note4 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-24 20:41:23,413 : 设备：SumSing_Note4 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-24 20:41:24,413 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-24 20:41:24,843 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-24 20:41:25,925 : 设备：SumSing_Note4 登陆验证码为: 
+2017-07-24 20:42:25,930 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-24 20:42:25,995 : -----------完成monkey测试--------------

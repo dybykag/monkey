@@ -1,0 +1,335 @@
+NiceAPK: /Users/GXT/PycharmProjects/Monkey_Android/apk/KaKa_1.3.1_91_release.apk
+
+Devices:
+ - deviceid: 5HUC9S6599999999
+   devicename: OPPO_R9M
+   serverport: 4723
+   bootstrapport: 4823
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: 7c404969
+   devicename: OPPO_A33
+   serverport: 4724
+   bootstrapport: 4824
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: G6Q4U4EA99999999
+   devicename: OPPO_A37M
+   serverport: 4725
+   bootstrapport: 4825
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: LJYTZ5D699999999
+   devicename: Redmi_Note2
+   serverport: 4726
+   bootstrapport: 4826
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: 810EBL22MGP3
+   devicename: MEIZU_M2NOTE
+   serverport: 4727
+   bootstrapport: 4827
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: LE66A06250102401
+   devicename: Le_X620
+   serverport: 4728
+   bootstrapport: 4828
+   platformname: Android
+   platformversion: 6.0
+   server: 127.0.0.1
+
+ - deviceid: RCKVVCSO99999999
+   devicename: OPPO_A59
+   serverport: 4729
+   bootstrapport: 4829
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: MIAGLMC6A2100083
+   devicename: MEITU_5
+   serverport: 4730
+   bootstrapport: 4830
+   platformname: Android
+   platformversion: 6.0
+   server: 127.0.0.1
+
+ - deviceid: 4TEI7DK799999999
+   devicename: RedMiNote_3
+   serverport: 4731
+   bootstrapport: 4831
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: 4d00f31dba19a02d
+   devicename: SumSing_S4
+   serverport: 4732
+   bootstrapport: 4832
+   platformname: Android
+   platformversion: 5.0.1
+   server: 127.0.0.1
+
+ - deviceid: a42516eb
+   devicename: XIAOMI_NOTE
+   serverport: 4733
+   bootstrapport: 4833
+   platformname: Android
+   platformversion: 6.0.1
+   server: 127.0.0.1
+
+ - deviceid: bef9e460
+   devicename: LianX_K30T
+   serverport: 4734
+   bootstrapport: 4834
+   platformname: Android
+   platformversion: 4.4.4
+   server: 127.0.0.1
+
+ - deviceid: ee72d34d
+   devicename: SumSing_NOTE3
+   serverport: 4735
+   bootstrapport: 4835
+   platformname: Android
+   platformversion: 5.0
+   server: 127.0.0.1
+
+ - deviceid: b33aa57c
+   devicename: XIAOMI_5
+   serverport: 4736
+   bootstrapport: 4836
+   platformname: Android
+   platformversion: 6.0.1
+   server: 127.0.0.1
+
+ - deviceid: A10ABNN76XMP
+   devicename: M57A
+   serverport: 4737
+   bootstrapport: 4837
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: 4c4bb164
+   devicename: XIAOMI_2
+   serverport: 4738
+   bootstrapport: 4838
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: 0021119e
+   devicename: XIAOMI_3
+   serverport: 4739
+   bootstrapport: 4839
+   platformname: Android
+   platformversion: 4.4.4
+   server: 127.0.0.1
+
+ - deviceid: 022BTF7N43046595
+   devicename: HUAWEI_P6
+   serverport: 4740
+   bootstrapport: 4840
+   platformname: Android
+   platformversion: 4.4.2
+   server: 127.0.0.1
+
+ - deviceid: 76UBBKR224R8
+   devicename: MEIZU_M4P
+   serverport: 4741
+   bootstrapport: 4841
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: 91QEBPL694VC
+   devicename: M3note
+   serverport: 4742
+   bootstrapport: 4842
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: HT53WWZ02029
+   devicename: HTC_BUTTERFLAY
+   serverport: 4743
+   bootstrapport: 4843
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: HT53DYJ00008
+   devicename: HTC_ONE
+   serverport: 4744
+   bootstrapport: 4844
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: K21GAMN5A1901310
+   devicename: MEITU_M4
+   serverport: 4745
+   bootstrapport: 4845
+   platformname: Android
+   platformversion: 4.4.4
+   server: 127.0.0.1
+
+ - deviceid: ZX1G22HQSB
+   devicename: Nexus_6
+   serverport: 4746
+   bootstrapport: 4846
+   platformname: Android
+   platformversion: 7.0
+   server: 127.0.0.1
+
+ - deviceid: VCOZHE6L99999999
+   devicename: vivo_X5Pro
+   serverport: 4747
+   bootstrapport: 4847
+   platformname: Android
+   platformversion: 5.0
+   server: 127.0.0.1
+
+ - deviceid: HEPBPF4D49S4FUGY
+   devicename: OPPO_R7s
+   serverport: 4748
+   bootstrapport: 4848
+   platformname: Android
+   platformversion: 4.4.4
+   server: 127.0.0.1
+
+ - deviceid: 174034d3
+   devicename: VIVOV3MAX
+   serverport: 4749
+   bootstrapport: 4849
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: 91QEBP63ULCD
+   devicename: M3note
+   serverport: 4750
+   bootstrapport: 4850
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: b8939c4
+   devicename: Coopad_8729
+   serverport: 4751
+   bootstrapport: 4851
+   platformname: Android
+   platformversion: 4.3
+   server: 127.0.0.1
+
+ - deviceid: 71MBBL622EG3
+   devicename: MeiZu_M1note
+   serverport: 4752
+   bootstrapport: 4852
+   platformname: Android
+   platformversion: 5.1
+   server: 127.0.0.1
+
+ - deviceid: 27ba3598
+   devicename: ONEPlus_X
+   serverport: 4753
+   bootstrapport: 4853
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: 410ac5dd9036c000
+   devicename: SumSing_9152
+   serverport: 4754
+   bootstrapport: 4854
+   platformname: Android
+   platformversion: 4.4.4
+   server: 127.0.0.1
+
+ - deviceid: 8d994efc
+   devicename: Vivo_X7
+   serverport: 4755
+   bootstrapport: 4855
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: 3DN4C16411014042
+   devicename: HuaWei_G9
+   serverport: 4756
+   bootstrapport: 4856
+   platformname: Android
+   platformversion: 6.0
+   server: 127.0.0.1
+
+ - deviceid: CC53DYG03271
+   devicename: HTC_D826w
+   serverport: 4757
+   bootstrapport: 4857
+   platformname: Android
+   platformversion: 5.0.2
+   server: 127.0.0.1
+
+ - deviceid: b3e5b28e
+   devicename: XIAOMI4
+   serverport: 4758
+   bootstrapport: 4858
+   platformname: Android
+   platformversion: 6.0.1
+   server: 127.0.0.1
+
+ - deviceid: e80c9403
+   devicename: RedMi1S
+   serverport: 4759
+   bootstrapport: 4859
+   platformname: Android
+   platformversion: 4.3
+   server: 127.0.0.1
+
+ - deviceid: 8526c60c
+   devicename: SumSing_Note4
+   serverport: 4760
+   bootstrapport: 4860
+   platformname: Android
+   platformversion: 5.1.1
+   server: 127.0.0.1
+
+ - deviceid: 8c9847a5
+   devicename: Samrtosan_1
+   serverport: 4761
+   bootstrapport: 4861
+   platformname: Android
+   platformversion: 4.4.2
+   server: 127.0.0.1
+
+Users:
+ - uid: 207
+   username: KaKa69
+   mobile: 10122223369
+
+ - uid: 212
+   username: KaKa68
+   mobile: 10122223368
+
+ - uid: 252
+   username: KaKa3332
+   mobile: 10122223332
+
+ - uid: 302
+   username: KaKa3331
+   mobile: 10122223331
+
+ - uid: 267
+   username: KaKa3333
+   mobile: 10122223333

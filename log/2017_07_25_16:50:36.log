@@ -1,0 +1,40 @@
+2017-07-25 16:50:36,112 : 加载设备及用户配置信息
+2017-07-25 16:50:36,171 : 配置列表中一共有 39 台设备
+2017-07-25 16:50:36,171 : 配置列表中一共有 5 个用户信息
+2017-07-25 16:50:36,171 : 获得服务器上待测试的设备
+2017-07-25 16:50:36,260 : 已连接的设备： 4c4bb164 ------ XIAOMI_2
+2017-07-25 16:50:36,260 : 开始执行任务...
+2017-07-25 16:50:37,816 : 设备：XIAOMI_2 开始预处理流程...
+2017-07-25 16:50:38,912 : 设备：XIAOMI_2 开始安装测试的nice包
+2017-07-25 16:50:38,912 : 设备：XIAOMI_2 start tap element id:android:id/button2
+2017-07-25 16:50:47,732 : 设备：XIAOMI_2 tap element id:android:id/button2 success
+2017-07-25 16:50:47,733 : 设备：XIAOMI_2 启动app并处理GPS弹窗
+2017-07-25 16:51:26,134 : 设备：XIAOMI_2 启动成功
+2017-07-25 16:51:26,135 : 设备：XIAOMI_2 开始登录，使用账号:19922223369
+2017-07-25 16:51:28,137 : 设备：XIAOMI_2 查找控件 com.nice.mont:id/img
+2017-07-25 16:51:28,463 : 设备：XIAOMI_2 找到控件: com.nice.mont:id/img
+2017-07-25 16:51:28,463 : 设备：XIAOMI_2 [action]按系统按键(keycode='4')
+2017-07-25 16:51:28,710 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 16:51:30,182 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 16:51:30,182 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 16:51:32,106 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 16:51:32,106 : 设备：XIAOMI_2 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 16:51:38,562 : 设备：XIAOMI_2 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 16:51:39,567 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 16:51:39,851 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 16:51:40,856 : 设备：XIAOMI_2 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 16:51:46,787 : 设备：XIAOMI_2 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 16:51:47,792 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/login
+2017-07-25 16:51:47,980 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/login success
+2017-07-25 16:51:47,980 : 设备：XIAOMI_2 登录成功
+2017-07-25 16:51:47,980 : 设备：XIAOMI_2 获取相机及录音权限
+2017-07-25 16:51:47,980 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 16:51:51,683 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 16:51:51,684 : 设备：XIAOMI_2 start tap element id:android:id/button1
+2017-07-25 16:51:52,910 : 设备：XIAOMI_2 tap element id:android:id/button1 success
+2017-07-25 16:51:52,910 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_ok
+2017-07-25 16:52:05,466 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_ok success
+2017-07-25 16:52:05,466 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 16:52:06,923 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 16:52:06,923 : 设备：XIAOMI_2 start tap element id:android:id/button1
+2017-07-25 16:52:22,304 : -----------完成全部monkey测试--------------

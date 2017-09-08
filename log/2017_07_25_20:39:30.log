@@ -1,0 +1,85 @@
+2017-07-25 20:39:30,077 : 加载设备及用户配置信息
+2017-07-25 20:39:30,135 : 配置列表中一共有 39 台设备
+2017-07-25 20:39:30,135 : 配置列表中一共有 5 个用户信息
+2017-07-25 20:39:30,135 : 获得服务器上待测试的设备
+2017-07-25 20:39:30,266 : 已连接的设备： K21GAMN5A1901310 ------ MEITU_M4
+2017-07-25 20:39:30,266 : 已连接的设备： 3DN4C16411014042 ------ HuaWei_G9
+2017-07-25 20:39:30,267 : 开始执行任务...
+2017-07-25 20:39:31,914 : 设备：MEITU_M4 开始预处理流程...
+2017-07-25 20:39:32,719 : 设备：MEITU_M4 卸载老的nice包
+2017-07-25 20:39:34,334 : 设备：HuaWei_G9 开始预处理流程...
+2017-07-25 20:39:35,189 : 设备：MEITU_M4 开始安装测试的nice包
+2017-07-25 20:39:35,190 : 设备：MEITU_M4 启动app并处理GPS弹窗
+2017-07-25 20:39:35,316 : 设备：HuaWei_G9 卸载老的nice包
+2017-07-25 20:39:42,931 : 设备：HuaWei_G9 查找控件 android:id/button1
+2017-07-25 20:39:44,218 : 设备：HuaWei_G9 未找到控件: android:id/button1
+2017-07-25 20:39:44,218 : 设备：HuaWei_G9 开始安装测试的nice包
+2017-07-25 20:39:44,219 : 设备：HuaWei_G9 启动app并处理GPS弹窗
+2017-07-25 20:39:44,220 : 设备：HuaWei_G9 查找控件 com.android.packageinstaller:id/ok_button
+2017-07-25 20:39:53,627 : 设备：MEITU_M4 启动成功
+2017-07-25 20:39:53,627 : 设备：MEITU_M4 开始登录，使用账号:19922223369
+2017-07-25 20:39:55,629 : 设备：MEITU_M4 查找控件 com.nice.mont:id/img
+2017-07-25 20:39:55,869 : 设备：MEITU_M4 找到控件: com.nice.mont:id/img
+2017-07-25 20:39:55,870 : 设备：MEITU_M4 [action]按系统按键(keycode='4')
+2017-07-25 20:39:56,102 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 20:39:57,196 : 设备：MEITU_M4 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 20:39:57,196 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 20:39:59,097 : 设备：MEITU_M4 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 20:39:59,097 : 设备：MEITU_M4 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 20:40:07,008 : 设备：MEITU_M4 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 20:40:08,018 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 20:40:08,301 : 设备：MEITU_M4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 20:40:09,306 : 设备：MEITU_M4 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 20:40:15,035 : 设备：HuaWei_G9 未找到控件: com.android.packageinstaller:id/ok_button
+2017-07-25 20:40:15,478 : 设备：MEITU_M4 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 20:40:16,481 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/login
+2017-07-25 20:40:17,513 : 设备：MEITU_M4 tap element id:com.nice.mont:id/login success
+2017-07-25 20:40:17,514 : 设备：MEITU_M4 登录成功
+2017-07-25 20:40:17,514 : 设备：MEITU_M4 获取相机及录音权限
+2017-07-25 20:40:17,514 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 20:40:18,598 : 设备：HuaWei_G9 start tap element id:com.huawei.systemmanager:id/btn_allow
+2017-07-25 20:40:20,902 : 设备：MEITU_M4 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 20:40:21,904 : 设备：MEITU_M4 tap screen point at x:507 y:718
+2017-07-25 20:40:22,986 : 设备：HuaWei_G9 tap element id:com.huawei.systemmanager:id/btn_allow success
+2017-07-25 20:40:22,988 : 设备：HuaWei_G9 启动成功
+2017-07-25 20:40:22,989 : 设备：HuaWei_G9 开始登录，使用账号:19922223368
+2017-07-25 20:40:23,022 : 设备：MEITU_M4 tap screen point at x:507 y:718
+2017-07-25 20:40:24,157 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/iv_close
+2017-07-25 20:40:24,993 : 设备：HuaWei_G9 查找控件 com.nice.mont:id/img
+2017-07-25 20:40:25,133 : 设备：HuaWei_G9 找到控件: com.nice.mont:id/img
+2017-07-25 20:40:25,134 : 设备：HuaWei_G9 [action]按系统按键(keycode='4')
+2017-07-25 20:40:25,169 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 20:40:26,437 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 20:40:26,437 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 20:40:27,475 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 20:40:27,475 : 设备：HuaWei_G9 start send_key 19922223368 to element id:com.nice.mont:id/phone_number
+2017-07-25 20:40:27,485 : 设备：MEITU_M4 tap element id:com.nice.mont:id/iv_close success
+2017-07-25 20:40:27,486 : 设备：MEITU_M4 预处理成功，开始执行Monkey测试
+2017-07-25 20:40:27,487 : 设备：MEITU_M4 -----------------开始执行monkey脚本-----------------
+2017-07-25 20:40:34,377 : 设备：HuaWei_G9 send_key text:19922223368 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 20:40:35,379 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 20:40:35,977 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 20:40:36,982 : 设备：HuaWei_G9 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 20:40:43,092 : 设备：HuaWei_G9 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 20:40:44,097 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/login
+2017-07-25 20:40:45,503 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/login success
+2017-07-25 20:40:45,503 : 设备：HuaWei_G9 登录成功
+2017-07-25 20:40:45,503 : 设备：HuaWei_G9 获取相机及录音权限
+2017-07-25 20:40:45,503 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 20:40:47,739 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 20:40:47,739 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/do_not_ask_checkbox
+2017-07-25 20:40:48,483 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/do_not_ask_checkbox success
+2017-07-25 20:40:48,483 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/permission_allow_button
+2017-07-25 20:40:50,296 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/permission_allow_button success
+2017-07-25 20:40:50,296 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/do_not_ask_checkbox
+2017-07-25 20:40:51,044 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/do_not_ask_checkbox success
+2017-07-25 20:40:51,044 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/permission_allow_button
+2017-07-25 20:40:52,033 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/permission_allow_button success
+2017-07-25 20:40:52,033 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/do_not_ask_checkbox
+2017-07-25 20:40:52,760 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/do_not_ask_checkbox success
+2017-07-25 20:40:52,761 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/permission_allow_button
+2017-07-25 20:40:56,577 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/permission_allow_button success
+2017-07-25 20:40:58,581 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/iv_close
+2017-07-25 20:40:59,093 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/iv_close success
+2017-07-25 20:40:59,093 : 设备：HuaWei_G9 -----------------开始执行monkey脚本-----------------
+2017-07-25 20:41:15,155 : -----------完成全部monkey测试--------------

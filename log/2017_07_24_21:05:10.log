@@ -1,0 +1,42 @@
+2017-07-24 21:05:10,840 : 加载设备及用户配置信息
+2017-07-24 21:05:10,946 : 配置列表中一共有 38 台设备
+2017-07-24 21:05:10,946 : 配置列表中一共有 5 个用户信息
+2017-07-24 21:05:10,946 : 获得服务器上待测试的设备
+2017-07-24 21:05:11,107 : 已连接的设备： 91QEBP63ULCD ------ M3note
+2017-07-24 21:05:11,107 : 开始执行任务...
+2017-07-24 21:05:13,734 : 设备：M3note 开始预处理流程...
+2017-07-24 21:05:14,629 : 设备：M3note 卸载老的nice包
+2017-07-24 21:05:17,443 : 设备：M3note 开始安装测试的nice包
+2017-07-24 21:05:17,443 : 设备：M3note 安装app并处理GPS弹窗
+2017-07-24 21:05:18,447 : 设备：M3note 查找控件 android:id/button1
+2017-07-24 21:05:34,117 : 设备：M3note 未找到控件: android:id/button1
+2017-07-24 21:05:37,755 : 设备：M3note 启动成功
+2017-07-24 21:05:37,755 : 设备：M3note 开始登录，使用账号:19922223369
+2017-07-24 21:05:38,759 : 设备：M3note [action]按系统按键(keycode='4')
+2017-07-24 21:05:39,041 : 设备：M3note start tap element id:com.nice.mont:id/circle_avatar
+2017-07-24 21:05:40,430 : 设备：M3note tap element id:com.nice.mont:id/circle_avatar success
+2017-07-24 21:05:40,430 : 设备：M3note start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-24 21:05:41,347 : 设备：M3note tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-24 21:05:41,347 : 设备：M3note start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-24 21:05:47,171 : 设备：M3note send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-24 21:05:48,175 : 设备：M3note start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-24 21:05:48,426 : 设备：M3note tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-24 21:05:49,491 : 设备：M3note 登陆验证码为:766060 
+2017-07-24 21:05:54,497 : 设备：M3note start send_key 766060 to element id:com.nice.mont:id/verify_code_num
+2017-07-24 21:06:00,542 : 设备：M3note send_key text:766060 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-24 21:06:02,546 : 设备：M3note start tap element id:com.nice.mont:id/login
+2017-07-24 21:06:03,591 : 设备：M3note tap element id:com.nice.mont:id/login success
+2017-07-24 21:06:08,592 : 设备：M3note 登录成功
+2017-07-24 21:06:08,593 : 设备：M3note 登录成功后，处理各种自动弹窗
+2017-07-24 21:06:08,593 : 设备：M3note 获取相机及录音权限
+2017-07-24 21:06:08,593 : 设备：M3note start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-24 21:06:10,022 : 设备：M3note tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-24 21:06:10,022 : 设备：M3note start tap element id:android:id/button1
+2017-07-24 21:06:13,536 : 设备：M3note tap element id:android:id/button1 success
+2017-07-24 21:06:13,536 : 设备：M3note start tap element id:android:id/button1
+2017-07-24 21:06:16,727 : 设备：M3note tap element id:android:id/button1 success
+2017-07-24 21:06:16,727 : 设备：M3note start tap element id:com.nice.mont:id/iv_close
+2017-07-24 21:06:17,133 : 设备：M3note tap element id:com.nice.mont:id/iv_close success
+2017-07-24 21:06:17,133 : 设备：M3note 预处理成功，开始执行Monkey测试
+2017-07-24 21:06:17,133 : 设备：M3note -----------------开始执行monkey脚本-----------------
+2017-07-24 21:06:19,392 : -----------完成monkey测试--------------

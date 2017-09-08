@@ -1,0 +1,34 @@
+2017-08-15 21:43:31,760 : 加载设备及用户配置信息
+2017-08-15 21:43:31,812 : 配置列表中一共有 39 台设备
+2017-08-15 21:43:31,813 : 配置列表中一共有 5 个用户信息
+2017-08-15 21:43:31,813 : 获得服务器上待测试的设备
+2017-08-15 21:43:31,895 : 已连接的设备： 3DN4C16411014042 ------ HuaWei_G9
+2017-08-15 21:43:31,895 : 开始执行任务...
+2017-08-15 21:43:34,951 : 设备：HuaWei_G9 开始预处理流程...
+2017-08-15 21:43:35,959 : 设备：HuaWei_G9 卸载老的nice包
+2017-08-15 21:43:43,627 : 设备：HuaWei_G9 查找控件 android:id/button1
+2017-08-15 21:43:44,767 : 设备：HuaWei_G9 未找到控件: android:id/button1
+2017-08-15 21:43:44,767 : 设备：HuaWei_G9 开始安装测试的nice包
+2017-08-15 21:43:44,768 : 设备：HuaWei_G9 启动app并处理GPS弹窗
+2017-08-15 21:43:44,768 : 设备：HuaWei_G9 查找控件 com.android.packageinstaller:id/decide_to_continue
+2017-08-15 21:43:55,744 : 设备：HuaWei_G9 未找到控件: com.android.packageinstaller:id/decide_to_continue
+2017-08-15 21:43:55,744 : 设备：HuaWei_G9 查找控件 com.android.packageinstaller:id/ok_button
+2017-08-15 21:43:55,850 : 设备：HuaWei_G9 找到控件: com.android.packageinstaller:id/ok_button
+2017-08-15 21:43:55,850 : 设备：HuaWei_G9 start tap element id:com.android.packageinstaller:id/ok_button
+2017-08-15 21:43:59,219 : 设备：HuaWei_G9 tap element id:com.android.packageinstaller:id/ok_button success
+2017-08-15 21:44:11,647 : 设备：HuaWei_G9 start tap element id:com.huawei.systemmanager:id/btn_allow
+2017-08-15 21:44:16,143 : 设备：HuaWei_G9 tap element id:com.huawei.systemmanager:id/btn_allow success
+2017-08-15 21:44:16,143 : 设备：HuaWei_G9 启动成功
+2017-08-15 21:44:16,143 : 设备：HuaWei_G9 开始登录，使用账号:19922223369
+2017-08-15 21:44:18,146 : 设备：HuaWei_G9 查找控件 com.nice.mont:id/img
+2017-08-15 21:44:18,179 : 设备：HuaWei_G9 找到控件: com.nice.mont:id/img
+2017-08-15 21:44:18,179 : 设备：HuaWei_G9 [action]按系统按键(keycode='4')
+2017-08-15 21:44:18,217 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/circle_avatar
+2017-08-15 21:44:19,278 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/circle_avatar success
+2017-08-15 21:44:19,278 : 设备：HuaWei_G9 start tap element id:com.nice.mont:id/btn_phone_login
+2017-08-15 21:44:20,165 : 设备：HuaWei_G9 tap element id:com.nice.mont:id/btn_phone_login success
+2017-08-15 21:44:20,165 : 设备：HuaWei_G9 查找控件 com.nice.mont:id/phone_number
+2017-08-15 21:44:20,200 : 设备：HuaWei_G9 找到控件: com.nice.mont:id/phone_number
+2017-08-15 21:44:20,201 : 设备：HuaWei_G9 start send_key 129 to element id:com.nice.mont:id/phone_number
+2017-08-15 21:44:24,530 : 设备：HuaWei_G9 预处理流程失败，终止相应任务
+2017-08-15 21:44:24,531 : -----------完成全部monkey测试--------------

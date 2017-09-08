@@ -1,0 +1,35 @@
+2017-07-25 18:05:50,123 : 加载设备及用户配置信息
+2017-07-25 18:05:50,173 : 配置列表中一共有 39 台设备
+2017-07-25 18:05:50,173 : 配置列表中一共有 5 个用户信息
+2017-07-25 18:05:50,173 : 获得服务器上待测试的设备
+2017-07-25 18:05:50,281 : 已连接的设备： K21GAMN5A1901310 ------ MEITU_M4
+2017-07-25 18:05:50,281 : 开始执行任务...
+2017-07-25 18:05:51,541 : 设备：MEITU_M4 开始预处理流程...
+2017-07-25 18:05:52,285 : 设备：MEITU_M4 卸载老的nice包
+2017-07-25 18:05:54,167 : 设备：MEITU_M4 开始安装测试的nice包
+2017-07-25 18:05:54,167 : 设备：MEITU_M4 启动app并处理GPS弹窗
+2017-07-25 18:06:10,590 : 设备：MEITU_M4 启动成功
+2017-07-25 18:06:10,591 : 设备：MEITU_M4 开始登录，使用账号:19922223369
+2017-07-25 18:06:12,592 : 设备：MEITU_M4 查找控件 com.nice.mont:id/img
+2017-07-25 18:06:12,785 : 设备：MEITU_M4 找到控件: com.nice.mont:id/img
+2017-07-25 18:06:12,785 : 设备：MEITU_M4 [action]按系统按键(keycode='4')
+2017-07-25 18:06:12,815 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 18:06:14,117 : 设备：MEITU_M4 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 18:06:14,118 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 18:06:15,771 : 设备：MEITU_M4 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 18:06:15,772 : 设备：MEITU_M4 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 18:06:22,793 : 设备：MEITU_M4 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 18:06:23,798 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 18:06:24,039 : 设备：MEITU_M4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 18:06:25,041 : 设备：MEITU_M4 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 18:06:29,980 : 设备：MEITU_M4 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 18:06:30,986 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/login
+2017-07-25 18:06:31,719 : 设备：MEITU_M4 tap element id:com.nice.mont:id/login success
+2017-07-25 18:06:31,719 : 设备：MEITU_M4 登录成功
+2017-07-25 18:06:31,719 : 设备：MEITU_M4 获取相机及录音权限
+2017-07-25 18:06:31,719 : 设备：MEITU_M4 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 18:06:34,371 : 设备：MEITU_M4 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 18:06:35,376 : 设备：MEITU_M4 tap screen point at x:507 y:718
+2017-07-25 18:06:36,499 : 设备：MEITU_M4 tap screen point at x:507 y:718
+2017-07-25 18:06:37,622 : 设备：MEITU_M4 start tap element id:com.nice.main:id/titlebar_return
+2017-07-25 18:07:32,170 : -----------完成全部monkey测试--------------

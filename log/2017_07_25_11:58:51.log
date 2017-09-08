@@ -1,0 +1,21 @@
+2017-07-25 11:58:51,910 : 加载设备及用户配置信息
+2017-07-25 11:58:51,994 : 配置列表中一共有 39 台设备
+2017-07-25 11:58:51,994 : 配置列表中一共有 5 个用户信息
+2017-07-25 11:58:51,995 : 获得服务器上待测试的设备
+2017-07-25 11:58:52,083 : 已连接的设备： 8c9847a5 ------ Samrtosan_1
+2017-07-25 11:58:52,083 : 开始执行任务...
+2017-07-25 11:58:55,786 : 设备：Samrtosan_1 开始预处理流程...
+2017-07-25 11:58:56,814 : 设备：Samrtosan_1 卸载老的nice包
+2017-07-25 11:58:59,137 : 设备：Samrtosan_1 开始安装测试的nice包
+2017-07-25 11:58:59,138 : 设备：Samrtosan_1 安装app并处理GPS弹窗
+2017-07-25 11:59:11,316 : 设备：Samrtosan_1 启动成功
+2017-07-25 11:59:11,316 : 设备：Samrtosan_1 开始登录，使用账号:19922223369
+2017-07-25 11:59:13,321 : 设备：Samrtosan_1 查找控件 com.nice.mont:id/img
+2017-07-25 11:59:13,771 : 设备：Samrtosan_1 找到控件: com.nice.mont:id/img
+2017-07-25 11:59:13,771 : 设备：Samrtosan_1 [action]按系统按键(keycode='4')
+2017-07-25 11:59:14,256 : 设备：Samrtosan_1 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 11:59:40,531 : 设备：Samrtosan_1 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 11:59:40,531 : 设备：Samrtosan_1 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 11:59:42,016 : 设备：Samrtosan_1 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 11:59:42,016 : 设备：Samrtosan_1 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 11:59:42,135 : -----------完成全部monkey测试--------------

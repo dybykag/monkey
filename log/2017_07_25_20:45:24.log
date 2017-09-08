@@ -1,0 +1,82 @@
+2017-07-25 20:45:24,843 : 加载设备及用户配置信息
+2017-07-25 20:45:24,910 : 配置列表中一共有 39 台设备
+2017-07-25 20:45:24,910 : 配置列表中一共有 5 个用户信息
+2017-07-25 20:45:24,910 : 获得服务器上待测试的设备
+2017-07-25 20:45:25,112 : 已连接的设备： RCKVVCSO99999999 ------ OPPO_A59
+2017-07-25 20:45:25,112 : 已连接的设备： 4c4bb164 ------ XIAOMI_2
+2017-07-25 20:45:25,112 : 开始执行任务...
+2017-07-25 20:45:27,694 : 设备：OPPO_A59 开始预处理流程...
+2017-07-25 20:45:28,725 : 设备：OPPO_A59 卸载老的nice包
+2017-07-25 20:45:29,501 : 设备：XIAOMI_2 开始预处理流程...
+2017-07-25 20:45:30,293 : 设备：XIAOMI_2 卸载老的nice包
+2017-07-25 20:45:31,622 : 设备：OPPO_A59 开始安装测试的nice包
+2017-07-25 20:45:31,624 : 设备：OPPO_A59 处理安装中各种弹窗
+2017-07-25 20:45:31,624 : 设备：OPPO_A59 start tap element id:com.android.packageinstaller:id/bottom_button_two
+2017-07-25 20:45:32,210 : 设备：XIAOMI_2 开始安装测试的nice包
+2017-07-25 20:45:32,211 : 设备：XIAOMI_2 start tap element id:com.miui.securitycenter:id/do_not_ask_checkbox
+2017-07-25 20:45:39,390 : 设备：XIAOMI_2 tap element id:com.miui.securitycenter:id/do_not_ask_checkbox success
+2017-07-25 20:45:39,391 : 设备：XIAOMI_2 start tap element id:android:id/button2
+2017-07-25 20:45:43,414 : 设备：XIAOMI_2 tap element id:android:id/button2 success
+2017-07-25 20:45:43,415 : 设备：XIAOMI_2 启动app并处理GPS弹窗
+2017-07-25 20:45:58,668 : 设备：OPPO_A59 tap element id:com.android.packageinstaller:id/bottom_button_two success
+2017-07-25 20:46:08,346 : 设备：XIAOMI_2 启动成功
+2017-07-25 20:46:08,346 : 设备：XIAOMI_2 开始登录，使用账号:19922223368
+2017-07-25 20:46:09,909 : 设备：OPPO_A59 启动成功
+2017-07-25 20:46:09,909 : 设备：OPPO_A59 开始登录，使用账号:19922223369
+2017-07-25 20:46:10,350 : 设备：XIAOMI_2 查找控件 com.nice.mont:id/img
+2017-07-25 20:46:10,720 : 设备：XIAOMI_2 找到控件: com.nice.mont:id/img
+2017-07-25 20:46:10,721 : 设备：XIAOMI_2 [action]按系统按键(keycode='4')
+2017-07-25 20:46:10,774 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 20:46:11,723 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 20:46:11,723 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 20:46:11,913 : 设备：OPPO_A59 查找控件 com.nice.mont:id/img
+2017-07-25 20:46:12,312 : 设备：OPPO_A59 找到控件: com.nice.mont:id/img
+2017-07-25 20:46:12,314 : 设备：OPPO_A59 [action]按系统按键(keycode='4')
+2017-07-25 20:46:12,700 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 20:46:13,632 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 20:46:13,632 : 设备：XIAOMI_2 start send_key 19922223368 to element id:com.nice.mont:id/phone_number
+2017-07-25 20:46:15,832 : 设备：OPPO_A59 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 20:46:15,832 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 20:46:18,742 : 设备：OPPO_A59 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 20:46:18,742 : 设备：OPPO_A59 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 20:46:20,935 : 设备：XIAOMI_2 send_key text:19922223368 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 20:46:21,937 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 20:46:22,245 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 20:46:23,248 : 设备：XIAOMI_2 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 20:46:28,925 : 设备：OPPO_A59 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 20:46:29,697 : 设备：XIAOMI_2 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 20:46:29,927 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 20:46:30,699 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/login
+2017-07-25 20:46:31,343 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/login success
+2017-07-25 20:46:31,343 : 设备：XIAOMI_2 登录成功
+2017-07-25 20:46:31,343 : 设备：XIAOMI_2 获取相机及录音权限
+2017-07-25 20:46:31,343 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 20:46:32,298 : 设备：OPPO_A59 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 20:46:33,301 : 设备：OPPO_A59 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 20:46:34,795 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 20:46:34,795 : 设备：XIAOMI_2 start tap element id:android:id/button1
+2017-07-25 20:46:36,195 : 设备：XIAOMI_2 tap element id:android:id/button1 success
+2017-07-25 20:46:36,195 : 设备：XIAOMI_2 start tap element id:com.nice.mont:id/btn_ok
+2017-07-25 20:46:46,950 : 设备：OPPO_A59 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 20:46:47,952 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/login
+2017-07-25 20:46:49,042 : 设备：XIAOMI_2 tap element id:com.nice.mont:id/btn_ok success
+2017-07-25 20:46:49,042 : 设备：XIAOMI_2 预处理成功，开始执行Monkey测试
+2017-07-25 20:46:49,042 : 设备：XIAOMI_2 -----------------开始执行monkey脚本-----------------
+2017-07-25 20:46:51,495 : 设备：OPPO_A59 tap element id:com.nice.mont:id/login success
+2017-07-25 20:46:51,496 : 设备：OPPO_A59 登录成功
+2017-07-25 20:46:51,496 : 设备：OPPO_A59 获取相机及录音权限
+2017-07-25 20:46:51,496 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 20:46:55,429 : 设备：OPPO_A59 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 20:46:55,430 : 设备：OPPO_A59 start tap element id:oppo:id/remember_cb
+2017-07-25 20:46:58,740 : 设备：OPPO_A59 tap element id:oppo:id/remember_cb success
+2017-07-25 20:46:58,741 : 设备：OPPO_A59 start tap element id:android:id/button1
+2017-07-25 20:47:01,854 : 设备：OPPO_A59 tap element id:android:id/button1 success
+2017-07-25 20:47:01,855 : 设备：OPPO_A59 start tap element id:oppo:id/remember_cb
+2017-07-25 20:47:05,623 : 设备：OPPO_A59 tap element id:oppo:id/remember_cb success
+2017-07-25 20:47:05,623 : 设备：OPPO_A59 start tap element id:android:id/button1
+2017-07-25 20:47:08,851 : 设备：OPPO_A59 tap element id:android:id/button1 success
+2017-07-25 20:47:08,851 : 设备：OPPO_A59 start tap element id:com.nice.mont:id/iv_close
+2017-07-25 20:47:11,846 : 设备：OPPO_A59 tap element id:com.nice.mont:id/iv_close success
+2017-07-25 20:47:11,847 : 设备：OPPO_A59 预处理成功，开始执行Monkey测试
+2017-07-25 20:47:11,847 : 设备：OPPO_A59 -----------------开始执行monkey脚本-----------------
+2017-07-25 20:47:21,018 : -----------完成全部monkey测试--------------

@@ -1,0 +1,43 @@
+2017-07-25 12:13:13,456 : 加载设备及用户配置信息
+2017-07-25 12:13:13,501 : 配置列表中一共有 39 台设备
+2017-07-25 12:13:13,501 : 配置列表中一共有 5 个用户信息
+2017-07-25 12:13:13,501 : 获得服务器上待测试的设备
+2017-07-25 12:13:13,599 : 已连接的设备： 8526c60c ------ SumSing_Note4
+2017-07-25 12:13:13,600 : 开始执行任务...
+2017-07-25 12:13:14,742 : 设备：SumSing_Note4 开始预处理流程...
+2017-07-25 12:13:15,208 : 设备：SumSing_Note4 卸载老的nice包
+2017-07-25 12:13:17,176 : 设备：SumSing_Note4 开始安装测试的nice包
+2017-07-25 12:13:17,176 : 设备：SumSing_Note4 启动app并处理GPS弹窗
+2017-07-25 12:13:32,834 : 设备：SumSing_Note4 start tap element id:com.android.settings:id/button
+2017-07-25 12:13:35,319 : 设备：SumSing_Note4 tap element id:com.android.settings:id/button success
+2017-07-25 12:13:37,309 : 设备：SumSing_Note4 启动成功
+2017-07-25 12:13:37,309 : 设备：SumSing_Note4 开始登录，使用账号:19922223369
+2017-07-25 12:13:39,312 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/img
+2017-07-25 12:13:39,454 : 设备：SumSing_Note4 找到控件: com.nice.mont:id/img
+2017-07-25 12:13:39,455 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-25 12:13:39,520 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/circle_avatar
+2017-07-25 12:13:40,292 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/circle_avatar success
+2017-07-25 12:13:40,293 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_phone_login
+2017-07-25 12:13:41,269 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_phone_login success
+2017-07-25 12:13:41,269 : 设备：SumSing_Note4 start send_key 19922223369 to element id:com.nice.mont:id/phone_number
+2017-07-25 12:13:47,531 : 设备：SumSing_Note4 send_key text:19922223369 to element id:com.nice.mont:id/phone_number success 
+2017-07-25 12:13:48,534 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/btn_obtain_verify_code
+2017-07-25 12:13:48,975 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/btn_obtain_verify_code success
+2017-07-25 12:13:49,978 : 设备：SumSing_Note4 start send_key 123456 to element id:com.nice.mont:id/verify_code_num
+2017-07-25 12:13:56,572 : 设备：SumSing_Note4 send_key text:123456 to element id:com.nice.mont:id/verify_code_num success 
+2017-07-25 12:13:57,574 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/login
+2017-07-25 12:13:58,081 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/login success
+2017-07-25 12:13:58,081 : 设备：SumSing_Note4 登录成功
+2017-07-25 12:13:58,082 : 设备：SumSing_Note4 获取相机及录音权限
+2017-07-25 12:13:58,082 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-25 12:13:59,194 : 设备：SumSing_Note4 未找到控件: com.nice.mont:id/feed_open_camera
+2017-07-25 12:13:59,196 : 设备：SumSing_Note4 [action]按系统按键(keycode='4')
+2017-07-25 12:13:59,762 : 设备：SumSing_Note4 查找控件 com.nice.mont:id/feed_open_camera
+2017-07-25 12:13:59,930 : 设备：SumSing_Note4 找到控件: com.nice.mont:id/feed_open_camera
+2017-07-25 12:13:59,930 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/feed_open_camera
+2017-07-25 12:14:01,109 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/feed_open_camera success
+2017-07-25 12:14:02,113 : 设备：SumSing_Note4 start tap element id:com.nice.mont:id/iv_close
+2017-07-25 12:14:02,502 : 设备：SumSing_Note4 tap element id:com.nice.mont:id/iv_close success
+2017-07-25 12:14:02,502 : 设备：SumSing_Note4 预处理成功，开始执行Monkey测试
+2017-07-25 12:14:02,502 : 设备：SumSing_Note4 -----------------开始执行monkey脚本-----------------
+2017-07-25 12:14:03,733 : -----------完成全部monkey测试--------------
